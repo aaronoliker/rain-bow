@@ -4071,8 +4071,6 @@
             "primitives": [
                 {
                     "attributes": {
-                        "COLOR_0": 481,
-                        "COLOR_1": 482,
                         "NORMAL": 483,
                         "POSITION": 484,
                         "TANGENT": 485,
@@ -4100,8 +4098,6 @@
             "primitives": [
                 {
                     "attributes": {
-                        "COLOR_0": 493,
-                        "COLOR_1": 494,
                         "NORMAL": 495,
                         "POSITION": 496,
                         "TANGENT": 497,
